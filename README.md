@@ -1,3 +1,3 @@
-# my_library
+# MyLibrary
 
 A new Flutter project.
